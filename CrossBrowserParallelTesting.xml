@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Runner" parallel="tests">
+        <test preserve-order="true" name="Device 1">
+            <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="org.parallel.runner.CommonRunner"/>
+        </classes>
+    </test>
+    <test preserve-order="true" name="Device 2">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="org.parallel.runner.CommonRunner"/>
+        </classes>
+    </test>
+</suite>
+
