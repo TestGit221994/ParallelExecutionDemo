@@ -3,7 +3,7 @@ Feature: Validate Login Functionality
   Background:
     Given initialise browser
 
-  @Smoke
+  @Smoke @Test
   Scenario: Validate email label
     When User click on login button
     Then Verify email label
