@@ -10,6 +10,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.parallel.utils.misc.BrowserFactory;
@@ -87,7 +88,9 @@ public class BaseClass {
                 EdgeOptions eo = new EdgeOptions();
                 System.out.println("I am in edge");
                 //eo.setHeadless(Boolean.parseBoolean(getProperty("headless.mode")));
-                driver.set(WebDriverManager.edgedriver().capabilities(eo).create());
+                String path=System.getProperty("user.dir") + File.separator + "src/test/resources/drivers/msedgedriver.exe";
+                System.setProperty("webdriver.edge.driver", path.trim());
+                driver.set(new EdgeDriver());
                 driver.get().manage().window().maximize();
                 //ClearCacheUtils.clearBrowserCache(getWebDriver());
                 break;
