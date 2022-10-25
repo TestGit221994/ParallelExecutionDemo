@@ -8,7 +8,7 @@
         </classes>
     </test>
     <test preserve-order="true" name="Device 2">
-        <parameter name="browser" value="edge"></parameter>
+        <parameter name="browser" value="firefox"></parameter>
         <classes>
             <class name="org.parallel.runner.CommonRunner"/>
         </classes>

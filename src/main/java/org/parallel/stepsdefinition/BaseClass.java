@@ -81,6 +81,7 @@ public class BaseClass {
 
         System.out.println(" From Ini : Browser Name : " +browserName.get()+ " INS " +browserName+" ThreadName "+Thread.currentThread().getName()+" ID " +Thread.currentThread().getId() );
 
+
         switch (getBName()) {
             case "edge":
                 EdgeOptions eo = new EdgeOptions();
@@ -97,7 +98,10 @@ public class BaseClass {
                 break;
             case "firefox":
                 FirefoxOptions fo = new FirefoxOptions();
-                fo.setHeadless(Boolean.parseBoolean(getProperty("headless.mode")));
+                //fo.setHeadless(Boolean.parseBoolean(getProperty("headless.mode")));
+                driver.set(WebDriverManager.firefoxdriver().capabilities(fo).create());
+                driver.get().manage().window().maximize();
+
                 //driver = WebDriverManager.firefoxdriver().capabilities(fo).create();
                 //driver.manage().window().maximize();
                 break;
