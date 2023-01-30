@@ -17,24 +17,24 @@ import java.util.List;
 import static org.parallel.utils.misc.PropertyUtils.getProperty;
 
 @CucumberOptions(features = {"src/test/resources/features/"}, glue = {
-        "org/parallel/stepsdefinition"}, monochrome = true,tags = "@Smoke",dryRun = false, plugin = {"pretty","html:target/cucumber-reports/cucumber-pretty", "json:target/cucumber-reports/CucumberTestReports.json", "rerun:target/cucumber-reports/rerun.txt"
+        "org/parallel/stepsdefinition"}, monochrome = true,tags = "@Smokelt",dryRun = false, plugin = {"pretty","html:target/cucumber-reports/cucumber-pretty", "json:target/cucumber-reports/CucumberTestReports.json", "rerun:target/cucumber-reports/rerun.txt"
 })
 
 public class CommonRunner extends AbstractTestNGCucumberTests {
 
+    /*
 
     @Override
     @DataProvider(parallel = true)
     public Object[][] scenarios(){
-        System.out.println(" Thread Count ========================================<<<<<<< " + System.getProperty("dataproviderthreadcount"));
-
         return super.scenarios();
     }
     @Parameters({ "browser" })
     @BeforeMethod
     public static void setUpScenario(String browser) {
-        System.out.println("From Runner : Browser Name :  " +browser + " Thread ID : " +Thread.currentThread().getId()+" Thread Name : " +Thread.currentThread().getName());
         BaseClass.setBrowserName(browser);
     }
+
+     */
 
 }

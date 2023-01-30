@@ -5,6 +5,7 @@ import io.cucumber.java.Scenario;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.qameta.allure.Allure;
 import io.qameta.allure.Attachment;
+import io.qameta.allure.Description;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -38,13 +39,11 @@ public class BaseClass {
 
 
     public synchronized static void setBrowserName(String bName){
-        System.out.println(" From SetBrowserName : Browser Name : " +bName+ " INS " +browserName+" ThreadName "+Thread.currentThread().getName()+" ID " +Thread.currentThread().getId() );
         browserName.set(bName);
 
     }
 
     public synchronized static String getBName(){
-        System.out.println(" From getBName : Browser Name : " +browserName.get()+ " INS " +browserName+" ThreadName "+Thread.currentThread().getName()+" ID " +Thread.currentThread().getId() );
         return browserName.get();
     }
 
@@ -56,7 +55,7 @@ public class BaseClass {
     public synchronized static void initializeBrowser() {
 
        // System.out.println(" ThreadName ============================================================" + Thread.currentThread().getName() + " ThreadID " +Thread.currentThread().getId());
-        /*
+       /*
         if(BrowserFactory.getInstance().getBrList()==null){
                 try {
                     browserName = BrowserFactory.getInstance().setBr(Thread.currentThread().getName().trim(), BrowserFactory.getInstance().getBrowserName());
@@ -77,16 +76,19 @@ public class BaseClass {
             }
         }
 
-         */
+        */
+
+
+
+
 
 
         System.out.println(" From Ini : Browser Name : " +browserName.get()+ " INS " +browserName+" ThreadName "+Thread.currentThread().getName()+" ID " +Thread.currentThread().getId() );
+        //getBName()
 
-
-        switch (getBName()) {
+        switch ("chrome") {
             case "edge":
                 EdgeOptions eo = new EdgeOptions();
-                System.out.println("I am in edge");
                 //eo.setHeadless(Boolean.parseBoolean(getProperty("headless.mode")));
                 String path=System.getProperty("user.dir") + File.separator + "src/test/resources/drivers/msedgedriver.exe";
                 System.setProperty("webdriver.edge.driver", path.trim());
@@ -155,7 +157,7 @@ public class BaseClass {
         System.out.println(" From tearDown : Browser Name : " +browserName.get()+ " INS " +browserName+" ThreadName "+Thread.currentThread().getName()+" ID " +Thread.currentThread().getId() +" Scenario Name " +scenario.getName());
 
 
-        /*
+
         if (scenario.isFailed()) {
             saveScreenShot(getWebDriver(), scenario);
             try {
@@ -167,7 +169,6 @@ public class BaseClass {
             Allure.addAttachment("Failed Scenario Name", getScenarioName(scenario));
         }
 
-         */
     }
 
     @After(order = 0)

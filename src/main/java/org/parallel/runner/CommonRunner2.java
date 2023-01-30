@@ -8,7 +8,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 
 @CucumberOptions(features = {"src/test/resources/features/"}, glue = {
-        "org/parallel/stepsdefinition"}, monochrome = true,tags = "@Smoke",dryRun = false, plugin = {"pretty","html:target/cucumber-reports/cucumber-pretty", "json:target/cucumber-reports/CucumberTestReports.json", "rerun:target/cucumber-reports/rerun.txt"
+        "org/parallel/stepsdefinition"}, monochrome = true,tags = "@Smokel",dryRun = false, plugin = {"pretty","html:target/cucumber-reports/cucumber-pretty", "json:target/cucumber-reports/CucumberTestReports.json", "rerun:target/cucumber-reports/rerun.txt"
 })
 
 public class CommonRunner2 extends AbstractTestNGCucumberTests {

@@ -1,0 +1,338 @@
+2022-11-03 14:10:10,092 - Demo -INFO -  click on : btnLogin
+2022-11-03 14:10:10,185 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-03 14:10:15,350 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-03 14:10:18,416 - Demo -INFO -  click on : btnLogin
+2022-11-03 14:10:18,480 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-09 13:25:17,998 - Demo -INFO -  click on : btnLogin
+2022-11-09 13:25:18,078 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-09 13:25:21,030 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-09 13:25:24,022 - Demo -INFO -  click on : btnLogin
+2022-11-09 13:25:24,076 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-09 13:27:14,527 - Demo -INFO -  click on : btnLogin
+2022-11-09 13:27:14,601 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-09 13:27:20,300 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-09 13:27:22,943 - Demo -INFO -  click on : btnLogin
+2022-11-09 13:27:22,997 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-14 15:49:58,747 - Demo -INFO -  click on : btnLogin
+2022-11-14 15:49:58,945 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-14 15:50:04,295 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-14 15:50:13,743 - Demo -INFO -  click on : btnLogin
+2022-11-14 15:50:13,924 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-14 16:31:05,689 - Demo -INFO -  click on : btnLogin
+2022-11-14 16:31:05,746 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-14 16:31:08,319 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-14 16:31:12,459 - Demo -INFO -  click on : btnLogin
+2022-11-14 16:31:12,512 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 18:54:55,388 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:54:55,480 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-28 18:54:58,092 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:55:00,868 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:55:00,918 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 18:55:03,402 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:55:06,145 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:55:08,733 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:55:11,463 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:55:15,522 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:55:16,947 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:55:21,633 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:55:26,177 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:56:40,331 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:56:40,434 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-28 18:56:45,356 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:56:47,506 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:56:47,592 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 18:56:52,035 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:56:54,877 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:56:59,979 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:02,884 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:09,407 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:12,605 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:18,524 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:20,180 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:25,571 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:27,788 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:32,928 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:35,913 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:41,126 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:44,111 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:48,359 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:51,504 - Demo -INFO -  click on : btnLogin
+2022-11-28 18:57:56,317 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 18:57:58,750 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:25:26,623 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:25:26,715 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-28 19:25:32,956 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:25:35,900 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:25:35,974 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 19:25:40,631 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:25:43,756 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:25:48,298 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:25:50,063 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:25:57,172 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:00,217 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:05,390 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:08,375 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:14,262 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:15,817 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:21,069 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:24,026 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:28,947 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:31,702 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:36,006 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:37,857 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:26:42,040 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:26:43,832 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:28:52,581 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:28:52,691 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-28 19:28:57,280 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:28:59,564 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:28:59,647 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 19:29:04,829 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:07,885 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:29:12,627 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:14,725 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:29:19,759 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:21,855 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:29:27,089 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:30,955 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:29:40,176 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:43,953 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:29:51,538 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:29:54,652 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:30:02,698 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:30:06,445 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:30:13,235 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:30:15,519 - Demo -INFO -  click on : btnLogin
+2022-11-28 19:30:22,184 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 19:30:25,078 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:37:27,838 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:37:28,044 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-11-28 20:37:35,018 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:37:40,118 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:37:40,337 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-11-28 20:37:47,669 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:37:53,140 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:38:00,638 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:38:04,499 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:38:13,586 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:38:17,401 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:38:25,755 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:38:29,400 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:38:38,461 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:38:43,545 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:38:53,020 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:38:57,944 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:39:07,786 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:39:11,013 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:39:17,824 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:39:21,339 - Demo -INFO -  click on : btnLogin
+2022-11-28 20:39:28,273 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-11-28 20:39:30,897 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:06,897 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:06,980 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-12-14 14:47:07,060 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:47:07,081 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:47:09,338 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:47:19,739 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:19,813 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-12-14 14:47:19,949 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:47:19,967 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:47:23,177 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:47:32,458 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:32,847 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:47:32,868 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:47:34,886 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:47:43,719 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:45,429 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:47:45,451 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:47:47,523 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:47:55,813 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:47:57,630 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:47:57,672 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:48:01,892 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:48:12,806 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:48:13,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:48:13,910 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:48:16,336 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:48:40,082 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:48:49,098 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:48:49,108 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:48:50,951 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:48:57,764 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:49:08,829 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:49:08,843 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:49:10,720 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:49:20,726 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:49:20,859 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:49:20,884 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:49:23,190 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:49:35,446 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:49:35,600 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:49:36,144 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:49:38,297 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:49:51,942 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:49:54,066 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:49:54,087 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:49:56,554 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:50:11,966 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:50:11,976 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:50:14,445 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:50:28,050 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:50:28,060 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:50:31,128 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:04,363 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:04,424 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2022-12-14 14:53:05,153 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:05,165 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:07,093 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:09,331 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:09,388 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2022-12-14 14:53:10,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:10,109 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:11,943 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:14,077 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:15,011 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:15,021 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:16,863 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:18,701 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:20,061 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:20,074 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:21,925 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:24,413 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:25,792 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:25,799 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:27,677 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:30,042 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:32,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:32,232 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:34,147 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:35,798 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:40,154 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:40,164 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:41,942 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:43,741 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:45,227 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:45,240 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:46,866 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:49,350 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:50,098 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:50,120 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:51,857 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:54,136 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:53:54,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:53:54,965 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:53:56,646 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:53:58,256 - Demo -INFO -  click on : btnLogin
+2022-12-14 14:54:00,026 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:54:00,042 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:54:01,860 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:54:07,814 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:54:07,823 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:54:09,712 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:54:15,303 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:54:15,314 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:54:17,144 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:54:40,766 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:54:40,785 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:54:42,628 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:55:01,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:55:01,635 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:55:03,674 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:55:31,655 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:55:31,697 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:55:33,534 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:55:54,133 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:55:54,151 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:55:56,102 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:56:19,560 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:56:19,582 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:56:21,419 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:56:27,905 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:56:27,915 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:56:29,803 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:56:36,695 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:56:36,707 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:56:38,447 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:56:58,586 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:56:58,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:57:00,333 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:57:17,931 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:57:17,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:57:19,828 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:57:47,867 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:57:47,888 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:57:49,569 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:58:13,581 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:58:13,600 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:58:15,343 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2022-12-14 14:58:41,040 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-14 14:58:41,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-14 14:58:42,829 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-01 19:12:48,728 - Demo -INFO -  click on : 
+2023-01-01 19:12:52,942 - Demo -INFO -  click on : 
+2023-01-01 19:13:10,634 - Demo -INFO -  click on : 
+2023-01-01 19:13:28,752 - Demo -INFO -  click on : 
+2023-01-01 19:13:46,516 - Demo -INFO -  click on : 
+2023-01-01 19:52:14,384 - Demo -INFO -  click on : 
+2023-01-01 19:52:25,523 - Demo -INFO -  click on : 
+2023-01-01 19:52:47,450 - Demo -INFO -  click on : 
+2023-01-01 19:53:22,015 - Demo -INFO -  click on : 
+2023-01-01 19:53:55,365 - Demo -INFO -  click on : 
+2023-01-30 14:57:26,403 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:26,434 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:26,478 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:29,424 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:29,449 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:29,494 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:32,069 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:32,102 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:32,125 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:35,203 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:35,231 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:35,266 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:41,104 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:41,129 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:41,527 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:45,891 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:45,920 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:45,964 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 14:57:52,117 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://store.dandelionchocolate.com/
+2023-01-30 14:57:52,407 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 14:57:52,582 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:04:46,846 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2023-01-30 15:04:47,664 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:04:47,678 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:04:49,164 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:00,938 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:
+2023-01-30 15:05:01,620 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:01,631 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:03,130 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:10,195 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:10,200 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:11,716 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:18,208 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:18,216 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:19,701 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:24,972 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:24,980 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:26,567 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:31,528 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:31,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:33,025 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:37,339 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:37,346 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:39,087 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:43,472 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:43,480 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:45,347 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:05:54,242 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:05:54,255 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:05:55,697 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:06:03,029 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:06:03,033 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:06:04,498 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:07:39,667 - Demo -INFO -  verify lblEmail :  Expected : Email: Actual : Email:
+2023-01-30 15:07:40,534 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+2023-01-30 15:07:40,544 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\91937\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+2023-01-30 15:07:42,185 - org.parallel.stepsdefinition.BaseClass -INFO - navigating to pbl webapp https://demo.nopcommerce.com/
+2023-01-30 15:07:47,720 - Demo -INFO -  verify lblPassword :  Expected : Password: Actual : Password:

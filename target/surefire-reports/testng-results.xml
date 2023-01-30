@@ -1,92 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Regression Runner" duration-ms="41167" started-at="2022-10-25T12:30:11Z" finished-at="2022-10-25T12:30:52Z">
+  <suite name="Regression Runner" duration-ms="16806" started-at="2023-01-30T09:37:31Z" finished-at="2023-01-30T09:37:48Z">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@15eb5ee5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Device 1" duration-ms="41167" started-at="2022-10-25T12:30:11Z" finished-at="2022-10-25T12:30:52Z">
+    <test name="Device 1" duration-ms="16806" started-at="2023-01-30T09:37:31Z" finished-at="2023-01-30T09:37:48Z">
       <class name="org.parallel.runner.CommonRunner">
-        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="setUpClass" is-config="true" duration-ms="698" started-at="2022-10-25T12:30:11Z" finished-at="2022-10-25T12:30:12Z">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.parallel.runner.CommonRunner@15eb5ee5]" name="setUpClass" is-config="true" duration-ms="561" started-at="2023-01-30T09:37:31Z" finished-at="2023-01-30T09:37:32Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@9f116cc]]>
+                <![CDATA[org.testng.TestRunner@791c12e3]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUpScenario(java.lang.String)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="setUpScenario" is-config="true" duration-ms="1" started-at="2022-10-25T12:30:12Z" finished-at="2022-10-25T12:30:12Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="runScenario" duration-ms="13325" started-at="2022-10-25T12:30:12Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-25T12:30:25Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Validate register label"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Validate Register Functionality"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="setUpScenario(java.lang.String)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="setUpScenario" is-config="true" duration-ms="1" started-at="2022-10-25T12:30:25Z" finished-at="2022-10-25T12:30:25Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="runScenario" duration-ms="9463" started-at="2022-10-25T12:30:25Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-25T12:30:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA["Validate your personal details label"]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA["Validate Register Functionality"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="setUpScenario(java.lang.String)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="setUpScenario" is-config="true" duration-ms="0" started-at="2022-10-25T12:30:35Z" finished-at="2022-10-25T12:30:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="runScenario" duration-ms="8622" started-at="2022-10-25T12:30:35Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-25T12:30:43Z">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@15eb5ee5]" name="runScenario" duration-ms="8130" started-at="2023-01-30T09:37:32Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-30T09:37:40Z">
           <params>
             <param index="0">
               <value>
@@ -102,18 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="setUpScenario(java.lang.String)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="setUpScenario" is-config="true" duration-ms="1" started-at="2022-10-25T12:30:43Z" finished-at="2022-10-25T12:30:43Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpScenario -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="runScenario" duration-ms="8835" started-at="2022-10-25T12:30:43Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-25T12:30:52Z">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.parallel.runner.CommonRunner@15eb5ee5]" name="runScenario" duration-ms="7832" started-at="2023-01-30T09:37:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-01-30T09:37:48Z">
           <params>
             <param index="0">
               <value>
@@ -129,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:org.parallel.runner.CommonRunner@50b472aa]" name="tearDownClass" is-config="true" duration-ms="102" started-at="2022-10-25T12:30:52Z" finished-at="2022-10-25T12:30:52Z">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:org.parallel.runner.CommonRunner@15eb5ee5]" name="tearDownClass" is-config="true" duration-ms="78" started-at="2023-01-30T09:37:48Z" finished-at="2023-01-30T09:37:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

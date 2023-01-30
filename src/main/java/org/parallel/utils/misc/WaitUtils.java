@@ -1,6 +1,7 @@
 package org.parallel.utils.misc;
 
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -22,6 +23,11 @@ public class WaitUtils {
     public static void waitForPageLoad(WebDriver driver) {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60));
        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
+    }
+
+    public static void waitForElementToLoad(WebDriver driver,String path){
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMinutes(5));
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(path)));
     }
 
     public static void pause(int seconds){
